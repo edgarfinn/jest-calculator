@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
 
+import { Provider } from 'react-redux';
+import { createStore, applyMiddleware } from 'redux';
+import reducers from '../../reducers'
+
+
 class App extends Component {
   render() {
     return (
