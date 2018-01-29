@@ -1,11 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import { Provider } from 'react-redux';
-import { createStore, applyMiddleware } from 'redux';
-import reducers from '../../reducers'
-
-
+import Calculator from './Calculator/calculator'
 class App extends Component {
   render() {
     return (
@@ -13,6 +9,7 @@ class App extends Component {
         <header className="App-header">
           <h1 className="App-title">React-Redux Calculator</h1>
         </header>
+        <Calculator />
       </div>
     );
   }

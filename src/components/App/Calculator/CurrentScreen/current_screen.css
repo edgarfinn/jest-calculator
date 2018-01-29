@@ -1,0 +1,9 @@
+.current-screen {
+  margin: auto;
+  margin-top: 50px;
+  height: 80px;
+  width: 280px;
+  background-color: lightgrey;
+  border: 3px solid grey;
+  border-radius: 3px;
+}
