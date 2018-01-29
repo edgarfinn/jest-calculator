@@ -15,4 +15,10 @@ User stories:
 
 - As a user wanting to perform a basic sum, I want to enter a apply a function into the calculator by pressing any functional button (```+```,```-```,```x```,```/``` or ```=```), so that I can then perform calculations with the submitted numbers.
 
-- As a user who wishes to perform a new calculation, I can reset the calculator's cache by pressing the ```AC``` button 
+- As a user who wishes to perform a new calculation, I can reset the calculator's cache by pressing the ```AC``` button
+
+
+## Styling:
+
+Colour palette:
+http://www.colourlovers.com/palette/567440/festiago
