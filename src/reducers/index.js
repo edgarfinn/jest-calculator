@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import lastPressed from './reducer_last_pressed';
+import currentValue from './reducer_current_value';
 
 const rootReducer = combineReducers({
-  lastPressed
+  currentValue
 });
 
 export default rootReducer;
